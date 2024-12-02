@@ -1,0 +1,10 @@
+Diferencias entre datos, información y conocimiento.
+Dato: son registros crudos.
+Información: Cuando los datos ya son procesados y organizados a forma que tengan un contexto o significado.
+Conocimiento: Se produce cuando la información es analizada, contextualizada y comprendida.
+
+Tipos de Analitica:
+1 Descriptiva
+2 Diagnóstica
+3 Predicitva
+4 Prescriptiva
