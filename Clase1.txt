@@ -4,7 +4,11 @@ Información: Cuando los datos ya son procesados y organizados a forma que tenga
 Conocimiento: Se produce cuando la información es analizada, contextualizada y comprendida.
 
 Tipos de Analitica:
-1 Descriptiva
-2 Diagnóstica
-3 Predicitva
-4 Prescriptiva
+1 Descriptiva:
+  se busca recopilar, limpiar y presentar datos para obtener información rapida.
+2 Diagnóstica:
+  Se relaciona con la descriptiva y incluye la obtención de datos relevantes. 
+3 Predicitva:
+  Se usan técnicas más avanzadas, como métodos y modelos estadísticos, algoritmos sofisticados de minería de datos y machine learning.aqui debido a la cantidad de datos se pueden aplicar tecnicas de bigdata.
+4 Prescriptiva: 
+  Es un análisis completo, combinando las anteriores para mostrar la forma de ejecutar una estrategia de negocio, haciendo uso de machine learning, motores de recomendación, analisis graficos y redes neuronales.
