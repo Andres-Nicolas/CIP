@@ -12,3 +12,8 @@ Tipos de Analitica:
   Se usan técnicas más avanzadas, como métodos y modelos estadísticos, algoritmos sofisticados de minería de datos y machine learning.aqui debido a la cantidad de datos se pueden aplicar tecnicas de bigdata.
 4 Prescriptiva: 
   Es un análisis completo, combinando las anteriores para mostrar la forma de ejecutar una estrategia de negocio, haciendo uso de machine learning, motores de recomendación, analisis graficos y redes neuronales.
+Notaciones amtematicas:
+a 4+8/2-3=5
+b 19+(22-8*2)-2=23
+c (5-4+2(2-1)+9=12
+d (2+6(2*5)-10/2)=57
