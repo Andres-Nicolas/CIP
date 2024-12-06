@@ -10,6 +10,8 @@ git config --global user.name "Tu Nombre"    # Configura tu nombre de usuario
 git config --global user.email "tuemail@ejemplo.com"    # Configura tu correo electrónico
 git config --global core.autocrlf true    # Convierte finales de línea automáticamente (Windows)
 git config --global core.autocrlf input    # Convierte finales de línea automáticamente (macOS/Linux)
+git config --global core.editor "code --wait"
+git config --global -e
 git config --list    # Muestra la configuración actual
 </code>
 </pre>
