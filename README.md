@@ -51,6 +51,7 @@ git branch <nombre_rama>    # Crea una nueva rama
 git checkout <nombre_rama>    # Cambia a una rama existente
 git checkout -b <nombre_rama>    # Crea y cambia a una nueva rama
 git branch -d <nombre_rama>    # Elimina una rama
+git branch -l #lista las ramas
 </code>
 </pre>
 
